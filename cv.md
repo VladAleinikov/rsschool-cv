@@ -4,8 +4,8 @@
 ***
 * **Location:** Mogilev, Belarus
 * **Phone:** +375 44 795-31-34
-* **Email** vlad.a.aleynikov@gmail.com
-* **GitHub** [VladAleinikov](https://github.com/VladAleinikov)
+* **Email:** vlad.a.aleynikov@gmail.com
+* **GitHub:** [VladAleinikov](https://github.com/VladAleinikov)
 
  ## **About me** ## 
 ***
