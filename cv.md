@@ -1,18 +1,18 @@
-#**Vladislav Aleynikov**#
+# **Vladislav Aleynikov** #
 ***
-##**Contacts**##
+ ## **Contacts** ## 
 ***
 * **Location:** Mogilev, Belarus
 * **Phone:** +375 44 795-31-34
 * **Email** vlad.a.aleynikov@gmail.com
 * **GitHub** [VladAleinikov](https://github.com/VladAleinikov)
 
-##**About me**##
+ ## **About me** ## 
 ***
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
-##**Skils**##
+ ## **Skils** ## 
 ***
 * HTML
 * CSS/SASS
@@ -21,7 +21,7 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * React (Basic)
 * C# (Basic)
 
-##**Code example**##
+ ## **Code example** ## 
 ***
 ```
 function formatDuration(seconds) {
@@ -75,12 +75,12 @@ function formatDuration(seconds) {
             duration;
 }
 ```
-##**Experience**##
+ ## **Experience** ## 
 ***
-##**Education**##
+ ## **Education** ## 
 ***
 * **University:** Belarusian Rusian University
 
-##**English**##
+ ## **English** ## 
 ***
 **B1**
